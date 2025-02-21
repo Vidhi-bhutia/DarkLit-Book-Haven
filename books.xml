@@ -1,0 +1,27 @@
+<!DOCTYPE bookstore SYSTEM "books.dtd">
+<bookstore>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <isbn>9780743273565</isbn>
+        <publisher>Scribner</publisher>
+        <edition>1st</edition>
+        <price>10.99</price>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <isbn>9780451524935</isbn>
+        <publisher>Signet Classic</publisher>
+        <edition>1st</edition>
+        <price>9.99</price>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <isbn>9780061120084</isbn>
+        <publisher>Harper Perennial</publisher>
+        <edition>50th Anniversary</edition>
+        <price>14.99</price>
+    </book>
+</bookstore>
