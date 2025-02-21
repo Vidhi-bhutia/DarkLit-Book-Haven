@@ -33,10 +33,6 @@
 2. **Open `index.html` in a browser**  
    Simply double-click `index.html` or use **Live Server** in VS Code.
 
-## 🌍 Live Demo  
-Deploy this project on **GitHub Pages** and add your link here:  
-➡ [Live Demo](https://Vidhi-bhutia.github.io/DarkLit-Book-Haven/)  
-
 ## 💡 How It Works
 
 - `index.html` loads and fetches `books.xml`.  
